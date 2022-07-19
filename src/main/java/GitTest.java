@@ -1,0 +1,10 @@
+/**
+ * @author:hjc
+ * @create 2022/7/19 15:11:07
+ */
+
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("hello Git!");
+    }
+}
